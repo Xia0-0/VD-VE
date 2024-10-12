@@ -1,9 +1,8 @@
-#导入模块
-
-import requests                        #用于发出HTTP请求，获取网页内容。
-from bs4 import BeautifulSoup          #用于解析网页内容，提取所需文本
-from googlesearch import search        #用于通过Google进行搜索，获取URL列表。
-import re                              #导入正则表达式模块
+# 导入模块
+import requests                        # 用于发出HTTP请求，获取网页内容。
+from bs4 import BeautifulSoup          # 用于解析网页内容，提取所需文本
+from googlesearch import search        # 用于通过Google进行搜索，获取URL列表
+import re                              # 导入正则表达式模块
 import time
 import random                          # 用于在请求之间引入随机延迟，模拟人类行为，避免被封
 import os                              # 用于文件操作
@@ -23,21 +22,25 @@ suspected_urls = []
 # 定义屏蔽的网站
 blocked_sites = ["baidu.com", "gov.cn"]
 
+# 设置搜索的数量和目标网址数
+search_limit = 50  # 最大搜索结果数量
+target_url_count = 10  # 找到多少个可疑网址后停止
 
-# 执行搜索，直到找到10个可疑网址 
+
+# 执行搜索，直到找到目标数量的可疑网址
 print("正在搜索中，请稍候...")
-urls = list(search(query))  # 获取所有搜索结果
+# 查询关键词并返回搜索结果
+urls = list(search(query, num_results=search_limit))  # 注意使用 `num_results`
 total_urls = len(urls)
 
-
-# 执行搜索，直到找到10个可疑网址 
+# 遍历搜索结果，并检测敏感信息
 for url in tqdm(urls, total=total_urls, desc="搜索进度"):
     
     # 检查网址是否在屏蔽列表中
     if any(blocked in url for blocked in blocked_sites):
         continue
 
-    time.sleep(random.uniform(1, 3))  # 随机等待 1 到 3 秒
+    time.sleep(random.uniform(2, 5))  # 随机等待 2 到 5 秒，增加更长的间隔防止被封
 
     try:
         # 请求网页内容
@@ -49,14 +52,16 @@ for url in tqdm(urls, total=total_urls, desc="搜索进度"):
         text = soup.get_text()
 
         # 检查网页内容是否包含敏感信息的关键字
-        if any(keyword in text for keyword in ["身份证", "姓名", "身份编号"]):
+        if sensitive_pattern.search(text) or any(keyword in text for keyword in ["身份证", "姓名", "身份编号"]):
             suspected_urls.append(url)
 
-        if len(suspected_urls) >= 10:  # 如果已找到10个，结束循环
+        if len(suspected_urls) >= target_url_count:  # 如果已找到目标数量，结束循环
             break
 
     except requests.RequestException as e:
         print(f"请求失败: {e}")  # 输出请求失败的信息
+    except Exception as e:
+        print(f"其他错误: {e}")  # 捕获所有其他可能的错误
 
 # 检查文件是否存在
 file_path = 'Suspected.txt'
@@ -67,4 +72,4 @@ if not os.path.exists(file_path):
 with open(file_path, 'a') as f:
     f.write('\n'.join(suspected_urls) + '\n')  # 追加内容并在末尾加上换行符
 
-print("已将可疑网址写入 Suspected.txt")
+print(f"已将 {len(suspected_urls)} 个可疑网址写入 Suspected.txt")
