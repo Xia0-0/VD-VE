@@ -1,0 +1,210 @@
+# Dirsearch started Wed Feb 19 03:12:58 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u https://www.lokjun.edu.hk/
+
+301     0B   https://www.lokjun.edu.hk/%2e%2e;/test    -> REDIRECTS TO: https://www.lokjun.edu.hk/%e7%ae%a1%e7%90%86%e8%88%87%e7%b5%84%e7%b9%94/%e5%ad%b8%e6%a0%a1%e8%a8%88%e5%8a%83%e8%88%87%e5%a0%b1%e5%91%8atest/test-%e4%b8%89%e5%b9%b4%e5%ad%b8%e6%a0%a1%e7%99%bc%e5%b1%95%e8%a8%88%e5%8a%83/
+301     0B   https://www.lokjun.edu.hk/%2e%2e//google.com    -> REDIRECTS TO: https://www.lokjun.edu.hk/%2E%2E/google.com
+301     0B   https://www.lokjun.edu.hk/.com    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/community-collaboration/
+301     0B   https://www.lokjun.edu.hk/.git/info/    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/parent-information/information/
+301     0B   https://www.lokjun.edu.hk/.learn    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/learning-and-teaching/
+301     0B   https://www.lokjun.edu.hk/.m/    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/management-and-organisation/
+301     0B   https://www.lokjun.edu.hk/.PDF    -> REDIRECTS TO: https://www.lokjun.edu.hk/.PDF/
+301     0B   https://www.lokjun.edu.hk/.pdf    -> REDIRECTS TO: https://www.lokjun.edu.hk/.pdf/
+301     0B   https://www.lokjun.edu.hk/0    -> REDIRECTS TO: https://www.lokjun.edu.hk/0/
+301     0B   https://www.lokjun.edu.hk/00    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/001_2324_%e5%ad%b8%e7%94%9f%e6%94%b6%e8%b2%bb%ef%bc%88%e5%85%a8%e6%a0%a1eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/02    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/020_2324_%e3%80%8c%e5%bf%83%e7%b9%ab%e5%ae%b6%e5%ba%ad%e3%80%8d%e5%ae%b6%e9%95%b7%e6%95%99%e8%82%b2%e8%a8%88%e5%8a%83%e9%80%9a%e5%91%8a%ef%bc%88%e5%85%a8%e6%a0%a1eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/04    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/040_2324_%e8%a6%aa%e5%ad%90%e9%96%b1%e8%ae%80%e7%8d%8e%e5%8b%b5%e8%a8%88%e5%8a%83%e9%80%9a%e5%91%8a%ef%bc%88%e5%85%a8%e6%a0%a1eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/01    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/010_2324_%e4%bb%a3%e8%a8%82%e7%b9%a1%e5%ad%97%e5%b8%83%e6%a2%9d_psa%ef%bc%88%e5%85%a8%e6%a0%a1eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/06    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/060_2324_%e4%b8%8a%e5%ad%b8%e6%9c%9f_%e7%ab%a5%e8%bb%8d_%e9%80%9a%e5%91%8a%ef%bc%88%e7%9b%b8%e9%97%9c%e5%ad%b8%e7%94%9f-eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/05    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/050_2324_%e3%80%8c%e5%ad%b8%e7%94%9f%e6%b4%a5%e8%b2%bc%e3%80%8d%e7%ac%ac%e4%ba%8c%e9%9a%8e%e6%ae%b5%e7%94%b3%e8%ab%8b%ef%bc%88%e5%85%a8%e6%a0%a1eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/07    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/070_2324_%e3%80%8c%e4%b8%80%e4%ba%ba%e4%b8%80%e8%8a%b1%e3%80%8d%e7%a8%ae%e6%a4%8d%e6%b4%bb%e5%8b%95%ef%bc%88%e5%85%a8%e6%a0%a1-eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/03    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/030_2324_%e7%ac%ac%e5%9b%9b%e5%8d%81%e4%b8%83%e5%b1%86%e9%a6%99%e6%b8%af%e7%89%b9%e6%ae%8a%e5%a5%a7%e9%81%8b%e6%9c%83%e6%b8%b8%e6%b3%b3%e6%af%94%e8%b3%bd-%e9%80%9a%e5%91%8a%ef%bc%88%e7%9b%b8%e9%97%9c/
+301     0B   https://www.lokjun.edu.hk/08    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/080_%e3%80%8c%e8%bf%aa%e5%a3%ab%e5%b0%bc%e5%89%b5%e5%a4%a2%e5%ae%b6%e9%9d%92%e5%b0%91%e5%b9%b4%e5%b1%95%e8%83%bd%e8%97%9d%e8%a1%93%e7%99%bc%e5%b1%95%e8%a8%88%e5%8a%83%e3%80%8d%e6%a0%a1%e5%85%a7/
+301     0B   https://www.lokjun.edu.hk/09    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/090_2324_30%e5%91%a8%e5%b9%b4%e6%a0%a1%e6%85%b6%e6%9a%a8%e6%96%b0%e6%98%a5%e8%81%af%e6%ad%a1%e6%9c%83_%e9%80%9a%e5%91%8a%ef%bc%88%e5%85%a8%e6%a0%a1eclass-%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/1    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/2023/01/117e_2022-23-chinese-new-year-gathering-notice-eclass-notice/
+301     0B   https://www.lokjun.edu.hk/10    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/100_2324_%e6%98%8e%e6%84%9b%e6%a8%82%e5%8b%99%e8%81%b7%e6%a5%ad%e8%a8%93%e7%b7%b4%e9%ab%94%e9%a9%97%e8%a8%88%e5%8a%83%ef%bc%88%e7%9b%b8%e9%97%9c%e5%ad%b8%e7%94%9f-eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/100    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/100_2324_%e6%98%8e%e6%84%9b%e6%a8%82%e5%8b%99%e8%81%b7%e6%a5%ad%e8%a8%93%e7%b7%b4%e9%ab%94%e9%a9%97%e8%a8%88%e5%8a%83%ef%bc%88%e7%9b%b8%e9%97%9c%e5%ad%b8%e7%94%9f-eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/101    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/101_2324_%e4%ba%8c%e6%9c%88%e4%bb%bd%e5%ad%b8%e7%94%9f%e9%a4%90%e5%96%ae%ef%bc%88%e5%85%a8%e6%a0%a1eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/102    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/102_%e9%86%ab%e7%99%82%e8%a4%87%e9%9b%9c%e5%80%8b%e6%a1%88%e5%ad%b8%e7%94%9f%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae%e9%80%9a%e5%91%8a-%ef%bc%88%e7%9b%b8%e9%97%9c%e5%ad%b8%e7%94%9feclass%e9%80%9a%e5%91%8a/
+301     0B   https://www.lokjun.edu.hk/103    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/103_2324_%e6%98%9f%e6%98%9f%e5%b1%95%e5%a5%87%e6%89%8d%e9%9f%b3%e6%a8%82%e6%9c%83%e9%80%9a%e5%91%8a%ef%bc%88%e7%9b%b8%e9%97%9c%e5%ad%b8%e7%94%9f-eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/12    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/120_2324-%e5%85%b1%e8%9e%8d%e6%a0%a1%e9%9a%9b%e4%b8%83%e4%ba%ba%e6%ac%96%e7%90%83%e8%b3%bd-%e9%80%9a%e5%91%8a%ef%bc%88%e7%9b%b8%e9%97%9c%e5%ad%b8%e7%94%9f-eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/11    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/110_2024-25%e7%89%b9%e6%ae%8a%e6%95%99%e8%82%b2%e5%ad%b8%e7%94%9f%e5%b8%b6%e5%bc%8f%e6%ac%96%e7%90%83%e9%82%80%e8%ab%8b%e8%b3%bd-%e9%80%9a%e5%91%8a%ef%bc%88%e7%9b%b8%e9%97%9c%e5%ad%b8%e7%94%9feclass/
+301     0B   https://www.lokjun.edu.hk/123    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/123_2324_%e9%a6%99%e6%b8%af%e8%8a%b1%e5%8d%89%e5%b1%95%e8%a6%bd%e4%b8%ad%e5%ad%b8%e7%b5%84_%e9%80%9a%e5%91%8a%ef%bc%88%e4%b8%ad%e5%ad%b8%e7%8f%ad%e7%b4%9a-eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/13    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/130_2324%e4%b8%8b_%e8%a8%80%e8%aa%9e%e6%b2%bb%e7%99%82%e5%ae%b6%e9%95%b7%e8%ab%ae%e8%a9%a2%e6%9c%8d%e5%8b%99%ef%bc%88%e5%85%a8%e6%a0%a1eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/14    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/140_2324_%e5%ae%b6%e9%95%b7%e6%95%99%e8%82%b2%e8%aa%b2%e7%a8%8b-%e6%87%89%e7%94%a8%e8%a1%8c%e7%82%ba%e5%88%86%e6%9e%90aba%e8%a8%93%e7%b7%b4%e6%8a%80%e5%b7%a7%e5%ae%b6%e9%95%b7%e8%ac%9b/
+301     0B   https://www.lokjun.edu.hk/15    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/150_2324_%e5%ae%b6%e9%95%b7%e8%ba%ab%e5%bf%83%e9%9d%88%e5%b7%a5%e4%bd%9c%e5%9d%8aii_psa%ef%bc%88%e5%85%a8%e6%a0%a1eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/16    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/160_2324_%e5%85%ad%e6%9c%88%e4%bb%bd%e5%ad%b8%e7%94%9f%e9%a4%90%e5%96%ae%ef%bc%88%e5%85%a8%e6%a0%a1eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/17    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/170_2324%e3%80%8c%e8%b6%b3%e7%90%83%e5%9c%a8%e6%a0%a1%e3%80%8d%e5%90%8c%e6%a8%82%e6%97%a5%e6%b4%bb%e5%8b%95-%e6%b4%bb%e5%8b%95%e9%80%9a%e5%91%8a%ef%bc%88%e7%9b%b8%e9%97%9c%e5%ad%b8%e7%94%9feclass/
+301     0B   https://www.lokjun.edu.hk/18    -> REDIRECTS TO: https://www.lokjun.edu.hk/school-notice/180_2425_%e3%80%8c%e5%ad%b8%e7%94%9f%e6%b4%a5%e8%b2%bc%e3%80%8d%e9%9b%bb%e5%ad%90%e7%94%b3%e8%ab%8b%e6%ba%96%e5%82%99%e4%ba%8b%e5%ae%9c2-%ef%bc%88%e5%85%a8%e6%a0%a1eclass%e9%80%9a%e5%91%8a%ef%bc%89/
+301     0B   https://www.lokjun.edu.hk/2    -> REDIRECTS TO: https://www.lokjun.edu.hk/%e7%ae%a1%e7%90%86%e8%88%87%e7%b5%84%e7%b9%94/%e5%ad%b8%e6%a0%a1%e8%a8%88%e5%8a%83%e8%88%87%e5%a0%b1%e5%91%8atest/2-%e5%ad%b8%e6%a0%a1%e5%91%a8%e5%b9%b4%e8%a8%88%e5%8a%83/
+301     0B   https://www.lokjun.edu.hk/20    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/2022-2023%e7%82%ba%e9%9d%9e%e8%8f%af%e8%aa%9e%e5%ad%b8%e7%94%9f%e6%8f%90%e4%be%9b%e7%9a%84%e6%95%99%e8%82%b2%e6%94%af%e6%8f%b4%e5%ad%b8%e6%a0%a1%e6%94%af%e6%8f%b4%e6%91%98%e8%a6%81-school-support-summ/
+301     0B   https://www.lokjun.edu.hk/22    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/2223%e4%b8%ad%e5%ad%b8%e7%b5%84%e8%aa%b2%e5%be%8c%e6%b4%bb%e5%8b%95/
+301     0B   https://www.lokjun.edu.hk/23    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/2324%e4%b8%8a%e5%ad%b8%e6%9c%9f%e8%aa%b2%e5%be%8c%e6%b4%bb%e5%8b%95%e5%b7%b2%e7%b6%93%e5%b1%95%e9%96%8b/
+301     0B   https://www.lokjun.edu.hk/24    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/2425-%e6%b5%81%e6%84%9f%e7%96%ab%e8%8b%97%e6%8e%a5%e7%a8%ae/
+301     0B   https://www.lokjun.edu.hk/3    -> REDIRECTS TO: https://www.lokjun.edu.hk/%e7%ae%a1%e7%90%86%e8%88%87%e7%b5%84%e7%b9%94/%e5%ad%b8%e6%a0%a1%e8%a8%88%e5%8a%83%e8%88%87%e5%a0%b1%e5%91%8atest/3-%e5%ad%b8%e6%a0%a1%e5%91%a8%e5%b9%b4%e5%a0%b1%e5%91%8a/
+301     0B   https://www.lokjun.edu.hk/6    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/6151/
+301     0B   https://www.lokjun.edu.hk/61    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/6151/
+301     0B   https://www.lokjun.edu.hk/a    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/ayp%e8%a8%88%e5%8a%83%e9%8a%80%e7%ab%a0%e9%87%8e%e5%a4%96%e9%8d%9b%e9%8d%8a%e6%97%85%e7%a8%8b%e8%8a%b1%e7%b5%ae/
+301     0B   https://www.lokjun.edu.hk/A    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/ayp%e8%a8%88%e5%8a%83%e9%8a%80%e7%ab%a0%e9%87%8e%e5%a4%96%e9%8d%9b%e9%8d%8a%e6%97%85%e7%a8%8b%e8%8a%b1%e7%b5%ae/
+301     0B   https://www.lokjun.edu.hk/actuator/;/info    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/parent-information/information/
+301     0B   https://www.lokjun.edu.hk/actuator/info    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/parent-information/information/
+301     0B   https://www.lokjun.edu.hk/actuator/management    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/management-and-organisation/
+301     0B   https://www.lokjun.edu.hk/adm/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/adm/
+301     0B   https://www.lokjun.edu.hk/admin.    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin
+301     0B   https://www.lokjun.edu.hk/admin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin/
+301     0B   https://www.lokjun.edu.hk/admin/manage    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/management-and-organisation/
+301     0B   https://www.lokjun.edu.hk/admin/mysql/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin/mysql/
+301     0B   https://www.lokjun.edu.hk/admin/mysql2/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin/mysql2/
+301     0B   https://www.lokjun.edu.hk/admin/phpMyAdmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin/phpMyAdmin/
+301     0B   https://www.lokjun.edu.hk/admin/phpmyadmin2/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin/phpmyadmin2/
+301     0B   https://www.lokjun.edu.hk/admin/phpmyadmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin/phpmyadmin/
+301     0B   https://www.lokjun.edu.hk/admin/PMA/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin/PMA/
+301     0B   https://www.lokjun.edu.hk/admin/pma/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin/pma/
+301     0B   https://www.lokjun.edu.hk/admin/views/ajax/autocomplete/user/a    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/ayp%e8%a8%88%e5%8a%83%e9%8a%80%e7%ab%a0%e9%87%8e%e5%a4%96%e9%8d%9b%e9%8d%8a%e6%97%85%e7%a8%8b%e8%8a%b1%e7%b5%ae/
+301     0B   https://www.lokjun.edu.hk/admin2/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin2/
+301     0B   https://www.lokjun.edu.hk/admin_area/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admin_area/
+301     0B   https://www.lokjun.edu.hk/adminarea/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/adminarea/
+301     0B   https://www.lokjun.edu.hk/admincp/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/admincp/
+301     0B   https://www.lokjun.edu.hk/adminer/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/adminer/
+301     0B   https://www.lokjun.edu.hk/administrator/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/administrator/
+301     0B   https://www.lokjun.edu.hk/apc/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/apc/
+301     0B   https://www.lokjun.edu.hk/app/testing    -> REDIRECTS TO: https://www.lokjun.edu.hk/%e8%aa%b2%e7%a8%8b%e4%bb%8b%e7%b4%b9/%e5%b0%8f%e5%b0%8f%e9%a0%98%e8%a2%96/testing1/
+301     0B   https://www.lokjun.edu.hk/asset..    -> REDIRECTS TO: https://www.lokjun.edu.hk/asset
+301     0B   https://www.lokjun.edu.hk/atom    -> REDIRECTS TO: https://www.lokjun.edu.hk/feed/atom/
+301     0B   https://www.lokjun.edu.hk/axis//happyaxis.jsp    -> REDIRECTS TO: https://www.lokjun.edu.hk/axis/happyaxis.jsp
+301     0B   https://www.lokjun.edu.hk/axis2//axis2-web/HappyAxis.jsp    -> REDIRECTS TO: https://www.lokjun.edu.hk/axis2/axis2-web/HappyAxis.jsp
+301     0B   https://www.lokjun.edu.hk/axis2-web//HappyAxis.jsp    -> REDIRECTS TO: https://www.lokjun.edu.hk/axis2-web/HappyAxis.jsp
+301     0B   https://www.lokjun.edu.hk/b    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/boarding-services/
+301     0B   https://www.lokjun.edu.hk/banner    -> REDIRECTS TO: https://www.lokjun.edu.hk/banner/
+302     0B   https://www.lokjun.edu.hk/banner/    -> REDIRECTS TO: https://edcitysch-my.sharepoint.com/:f:/g/personal/cljsdms_school_edcity_hk/Eh09R2fqCiZInQh9cv4ZZdcBGwLkJ8SLx1jnzooqQx_D9A?e=21fbif
+301     0B   https://www.lokjun.edu.hk/base/static/c    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/latest-new/centre-for-health-protection-vigilance-against-respiratory-syncytial-virus/
+301     0B   https://www.lokjun.edu.hk/bb-admin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/bb-admin/
+301     0B   https://www.lokjun.edu.hk/bitrix/admin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/bitrix/admin/
+301     0B   https://www.lokjun.edu.hk/board    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/boarding-services/
+301     0B   https://www.lokjun.edu.hk/c    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/latest-new/centre-for-health-protection-vigilance-against-respiratory-syncytial-virus/
+301   242B   https://www.lokjun.edu.hk/cgi-sys    -> REDIRECTS TO: https://www.lokjun.edu.hk/cgi-sys/
+301     0B   https://www.lokjun.edu.hk/Citrix//AccessPlatform/auth/clientscripts/cookies.js    -> REDIRECTS TO: https://www.lokjun.edu.hk/Citrix/AccessPlatform/auth/clientscripts/cookies.js
+301     0B   https://www.lokjun.edu.hk/claroline/phpMyAdmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/claroline/phpMyAdmin/
+301     0B   https://www.lokjun.edu.hk/com    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/community-collaboration/
+301     0B   https://www.lokjun.edu.hk/community    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/community-collaboration/
+200    33KB  https://www.lokjun.edu.hk/controlpanel
+200    33KB  https://www.lokjun.edu.hk/controlpanel/
+200    33KB  https://www.lokjun.edu.hk/cpanel
+200    33KB  https://www.lokjun.edu.hk/cpanel/
+301     0B   https://www.lokjun.edu.hk/db/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/db/
+301     0B   https://www.lokjun.edu.hk/dbadmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/dbadmin/
+302     0B   https://www.lokjun.edu.hk/doc/en/changes.html    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/
+301     0B   https://www.lokjun.edu.hk/e    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/latest-new/edb-school-development-division-sdct-message-to-schools-extension-of-rat-requirements/
+301     0B   https://www.lokjun.edu.hk/education    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/latest-new/education-support-provided-for-non-chinese-speaking-ncs-students-school-support-summary-for-the-2021-22-school-year/
+301     0B   https://www.lokjun.edu.hk/en    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/
+302     0B   https://www.lokjun.edu.hk/en/admin/    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/
+301     0B   https://www.lokjun.edu.hk/engine/classes/swfupload//swfupload_f9.swf    -> REDIRECTS TO: https://www.lokjun.edu.hk/engine/classes/swfupload/swfupload_f9.swf
+301     0B   https://www.lokjun.edu.hk/engine/classes/swfupload//swfupload.swf    -> REDIRECTS TO: https://www.lokjun.edu.hk/engine/classes/swfupload/swfupload.swf
+301     0B   https://www.lokjun.edu.hk/etc/lib/pChart2/examples/imageMap/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/etc/lib/pChart2/examples/imageMap/
+301     0B   https://www.lokjun.edu.hk/extjs/resources//charts.swf    -> REDIRECTS TO: https://www.lokjun.edu.hk/extjs/resources/charts.swf
+200     0B   https://www.lokjun.edu.hk/favicon.ico
+301     0B   https://www.lokjun.edu.hk/feed    -> REDIRECTS TO: https://www.lokjun.edu.hk/feed/
+301     0B   https://www.lokjun.edu.hk/html/js/misc/swfupload//swfupload.swf    -> REDIRECTS TO: https://www.lokjun.edu.hk/html/js/misc/swfupload/swfupload.swf
+301     0B   https://www.lokjun.edu.hk/i    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/parent-information/information/
+301     0B   https://www.lokjun.edu.hk/in    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/parent-information/information/
+301     0B   https://www.lokjun.edu.hk/in/    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/parent-information/information/
+301     0B   https://www.lokjun.edu.hk/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/
+301     0B   https://www.lokjun.edu.hk/index.php/login/    -> REDIRECTS TO: https://www.lokjun.edu.hk/login/
+301     0B   https://www.lokjun.edu.hk/info    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/parent-information/information/
+301     0B   https://www.lokjun.edu.hk/infor    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/parent-information/information/
+301     0B   https://www.lokjun.edu.hk/install/index.php?upgrade/    -> REDIRECTS TO: https://www.lokjun.edu.hk/install/?upgrade/
+301     0B   https://www.lokjun.edu.hk/jkstatus;    -> REDIRECTS TO: https://www.lokjun.edu.hk/jkstatus
+200    33KB  https://www.lokjun.edu.hk/kpanel/
+301     0B   https://www.lokjun.edu.hk/l    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/learning-and-teaching/
+301     0B   https://www.lokjun.edu.hk/lib/bundler/man/    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/management-and-organisation/
+301     0B   https://www.lokjun.edu.hk/login.wdm%2e    -> REDIRECTS TO: https://www.lokjun.edu.hk/login.wdm
+301     0B   https://www.lokjun.edu.hk/login.wdm%20    -> REDIRECTS TO: https://www.lokjun.edu.hk/login.wdm
+301     0B   https://www.lokjun.edu.hk/m    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/management-and-organisation/
+301   242B   https://www.lokjun.edu.hk/mailman    -> REDIRECTS TO: https://www.lokjun.edu.hk/mailman/
+403   318B   https://www.lokjun.edu.hk/mailman/
+200     2KB  https://www.lokjun.edu.hk/mailman/listinfo
+301     0B   https://www.lokjun.edu.hk/manage    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/management-and-organisation/
+301     0B   https://www.lokjun.edu.hk/manage/    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/management-and-organisation/
+301     0B   https://www.lokjun.edu.hk/management    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/management-and-organisation/
+301     0B   https://www.lokjun.edu.hk/management/    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/management-and-organisation/
+302     0B   https://www.lokjun.edu.hk/mapix/doc/en/changes.html    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/
+302     0B   https://www.lokjun.edu.hk/mapix/mapix/doc/en/changes.html    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/
+301     0B   https://www.lokjun.edu.hk/mgmt/tm/sys/management    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/management-and-organisation/
+301     0B   https://www.lokjun.edu.hk/modelsearch/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/modelsearch/
+301     0B   https://www.lokjun.edu.hk/myadmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/myadmin/
+301     0B   https://www.lokjun.edu.hk/myadmin2/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/myadmin2/
+301     0B   https://www.lokjun.edu.hk/mysql-admin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/mysql-admin/
+301     0B   https://www.lokjun.edu.hk/mysql/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/mysql/
+301     0B   https://www.lokjun.edu.hk/mysqladmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/mysqladmin/
+301     0B   https://www.lokjun.edu.hk/New%20folder%20(2)    -> REDIRECTS TO: https://www.lokjun.edu.hk/New%20folder%20(2
+301     0B   https://www.lokjun.edu.hk/p/    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/parent-information/
+301     0B   https://www.lokjun.edu.hk/p/m/a/    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/ayp%e8%a8%88%e5%8a%83%e9%8a%80%e7%ab%a0%e9%87%8e%e5%a4%96%e9%8d%9b%e9%8d%8a%e6%97%85%e7%a8%8b%e8%8a%b1%e7%b5%ae/
+301     0B   https://www.lokjun.edu.hk/p    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/parent-information/
+301     0B   https://www.lokjun.edu.hk/panel-administracion/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/panel-administracion/
+301     0B   https://www.lokjun.edu.hk/pdf    -> REDIRECTS TO: https://www.lokjun.edu.hk/pdf/
+301     0B   https://www.lokjun.edu.hk/phpadmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpadmin/
+301     0B   https://www.lokjun.edu.hk/phpma/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpma/
+301     0B   https://www.lokjun.edu.hk/phpmyadmin!!    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpmyadmin
+301     0B   https://www.lokjun.edu.hk/phpmyadmin-old/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpmyadmin-old/
+301     0B   https://www.lokjun.edu.hk/phpMyAdmin.old/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpMyAdmin.old/
+301     0B   https://www.lokjun.edu.hk/phpMyAdmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpMyAdmin/
+301     0B   https://www.lokjun.edu.hk/phpmyadmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpmyadmin/
+301     0B   https://www.lokjun.edu.hk/phpMyAdmin/phpMyAdmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpMyAdmin/phpMyAdmin/
+301     0B   https://www.lokjun.edu.hk/phpmyadmin/phpmyadmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpmyadmin/phpmyadmin/
+301     0B   https://www.lokjun.edu.hk/phpmyadmin0/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpmyadmin0/
+301     0B   https://www.lokjun.edu.hk/phpmyadmin1/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpmyadmin1/
+301     0B   https://www.lokjun.edu.hk/phpmyadmin2/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpmyadmin2/
+301     0B   https://www.lokjun.edu.hk/phpMyadmin_bak/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpMyadmin_bak/
+301     0B   https://www.lokjun.edu.hk/phpMyAdminold/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/phpMyAdminold/
+301   244B   https://www.lokjun.edu.hk/pipermail    -> REDIRECTS TO: https://www.lokjun.edu.hk/pipermail/
+301     0B   https://www.lokjun.edu.hk/pma-old/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/pma-old/
+301     0B   https://www.lokjun.edu.hk/PMA/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/PMA/
+301     0B   https://www.lokjun.edu.hk/pma/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/pma/
+301     0B   https://www.lokjun.edu.hk/PMA2/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/PMA2/
+301     0B   https://www.lokjun.edu.hk/pmamy/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/pmamy/
+301     0B   https://www.lokjun.edu.hk/pmamy2/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/pmamy2/
+301     0B   https://www.lokjun.edu.hk/pmd/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/pmd/
+301     0B   https://www.lokjun.edu.hk/rating_over.    -> REDIRECTS TO: https://www.lokjun.edu.hk/rating_over
+200     7KB  https://www.lokjun.edu.hk/readme.html
+200    67B   https://www.lokjun.edu.hk/robots.txt
+301     0B   https://www.lokjun.edu.hk/roundcube/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/roundcube/
+301     0B   https://www.lokjun.edu.hk/rss    -> REDIRECTS TO: https://www.lokjun.edu.hk/feed/
+301     0B   https://www.lokjun.edu.hk/s    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/school-information/
+301     0B   https://www.lokjun.edu.hk/siteadmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/siteadmin/
+301     0B   https://www.lokjun.edu.hk/sql/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/sql/
+301     0B   https://www.lokjun.edu.hk/static..    -> REDIRECTS TO: https://www.lokjun.edu.hk/static
+301     0B   https://www.lokjun.edu.hk/sugarcrm/index.php?module=Accounts&action=ShowDuplicates    -> REDIRECTS TO: https://www.lokjun.edu.hk/sugarcrm/?module=Accounts&action=ShowDuplicates
+301     0B   https://www.lokjun.edu.hk/sugarcrm/index.php?module=Contacts&action=ShowDuplicates    -> REDIRECTS TO: https://www.lokjun.edu.hk/sugarcrm/?module=Contacts&action=ShowDuplicates
+301     0B   https://www.lokjun.edu.hk/t    -> REDIRECTS TO: https://www.lokjun.edu.hk/%e7%ae%a1%e7%90%86%e8%88%87%e7%b5%84%e7%b9%94/%e5%ad%b8%e6%a0%a1%e8%a8%88%e5%8a%83%e8%88%87%e5%a0%b1%e5%91%8atest/test-%e4%b8%89%e5%b9%b4%e5%ad%b8%e6%a0%a1%e7%99%bc%e5%b1%95%e8%a8%88%e5%8a%83/
+301     0B   https://www.lokjun.edu.hk/templates/beez/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/templates/beez/
+301     0B   https://www.lokjun.edu.hk/templates/ja-helio-farsi/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/templates/ja-helio-farsi/
+301     0B   https://www.lokjun.edu.hk/templates/rhuk_milkyway/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/templates/rhuk_milkyway/
+301     0B   https://www.lokjun.edu.hk/test    -> REDIRECTS TO: https://www.lokjun.edu.hk/%e7%ae%a1%e7%90%86%e8%88%87%e7%b5%84%e7%b9%94/%e5%ad%b8%e6%a0%a1%e8%a8%88%e5%8a%83%e8%88%87%e5%a0%b1%e5%91%8atest/test-%e4%b8%89%e5%b9%b4%e5%ad%b8%e6%a0%a1%e7%99%bc%e5%b1%95%e8%a8%88%e5%8a%83/
+301     0B   https://www.lokjun.edu.hk/test/    -> REDIRECTS TO: https://www.lokjun.edu.hk/%e7%ae%a1%e7%90%86%e8%88%87%e7%b5%84%e7%b9%94/%e5%ad%b8%e6%a0%a1%e8%a8%88%e5%8a%83%e8%88%87%e5%a0%b1%e5%91%8atest/test-%e4%b8%89%e5%b9%b4%e5%ad%b8%e6%a0%a1%e7%99%bc%e5%b1%95%e8%a8%88%e5%8a%83/
+301     0B   https://www.lokjun.edu.hk/Testing    -> REDIRECTS TO: https://www.lokjun.edu.hk/%e8%aa%b2%e7%a8%8b%e4%bb%8b%e7%b4%b9/%e5%b0%8f%e5%b0%8f%e9%a0%98%e8%a2%96/testing1/
+301     0B   https://www.lokjun.edu.hk/testing    -> REDIRECTS TO: https://www.lokjun.edu.hk/%e8%aa%b2%e7%a8%8b%e4%bb%8b%e7%b4%b9/%e5%b0%8f%e5%b0%8f%e9%a0%98%e8%a2%96/testing1/
+301     0B   https://www.lokjun.edu.hk/tmp/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/tmp/
+301     0B   https://www.lokjun.edu.hk/tools/phpMyAdmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/tools/phpMyAdmin/
+301     0B   https://www.lokjun.edu.hk/typo3/phpmyadmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/typo3/phpmyadmin/
+301     0B   https://www.lokjun.edu.hk/views/ajax/autocomplete/user/a    -> REDIRECTS TO: https://www.lokjun.edu.hk/latest-new/ayp%e8%a8%88%e5%8a%83%e9%8a%80%e7%ab%a0%e9%87%8e%e5%a4%96%e9%8d%9b%e9%8d%8a%e6%97%85%e7%a8%8b%e8%8a%b1%e7%b5%ae/
+301     0B   https://www.lokjun.edu.hk/web/phpMyAdmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/web/phpMyAdmin/
+301     0B   https://www.lokjun.edu.hk/web/static/c    -> REDIRECTS TO: https://www.lokjun.edu.hk/en/latest-new/centre-for-health-protection-vigilance-against-respiratory-syncytial-virus/
+301     0B   https://www.lokjun.edu.hk/webadmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/webadmin/
+200    33KB  https://www.lokjun.edu.hk/webmail
+200    33KB  https://www.lokjun.edu.hk/webmail/src/configtest.php
+301   243B   https://www.lokjun.edu.hk/wp-admin    -> REDIRECTS TO: https://www.lokjun.edu.hk/wp-admin/
+200     1KB  https://www.lokjun.edu.hk/wp-admin/install.php
+500     3KB  https://www.lokjun.edu.hk/wp-admin/setup-config.php
+400     1B   https://www.lokjun.edu.hk/wp-admin/admin-ajax.php
+302     0B   https://www.lokjun.edu.hk/wp-admin/    -> REDIRECTS TO: http://www.lokjun.edu.hk/404/
+200     0B   https://www.lokjun.edu.hk/wp-config.php
+301   245B   https://www.lokjun.edu.hk/wp-content    -> REDIRECTS TO: https://www.lokjun.edu.hk/wp-content/
+200     0B   https://www.lokjun.edu.hk/wp-content/
+301     0B   https://www.lokjun.edu.hk/wp-content/plugins/adminer/inc/editor/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/wp-content/plugins/adminer/inc/editor/
+301   246B   https://www.lokjun.edu.hk/wp-includes    -> REDIRECTS TO: https://www.lokjun.edu.hk/wp-includes/
+200     0B   https://www.lokjun.edu.hk/wp-cron.php
+500     0B   https://www.lokjun.edu.hk/wp-includes/rss-functions.php
+401   118B   https://www.lokjun.edu.hk/wp-json/
+401   118B   https://www.lokjun.edu.hk/wp-json/wp/v2/users/
+500     3KB  https://www.lokjun.edu.hk/wp-signup.php
+301     0B   https://www.lokjun.edu.hk/www/phpMyAdmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/www/phpMyAdmin/
+301     0B   https://www.lokjun.edu.hk/xampp/phpmyadmin/index.php    -> REDIRECTS TO: https://www.lokjun.edu.hk/xampp/phpmyadmin/
+301     0B   https://www.lokjun.edu.hk/~test    -> REDIRECTS TO: https://www.lokjun.edu.hk/%e7%ae%a1%e7%90%86%e8%88%87%e7%b5%84%e7%b9%94/%e5%ad%b8%e6%a0%a1%e8%a8%88%e5%8a%83%e8%88%87%e5%a0%b1%e5%91%8atest/test-%e4%b8%89%e5%b9%b4%e5%ad%b8%e6%a0%a1%e7%99%bc%e5%b1%95%e8%a8%88%e5%8a%83/
